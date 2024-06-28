@@ -9,7 +9,7 @@ pipeline {
     }
 
     environment{
-        registry = 'longlnOff/jenkins-tutorial'
+        registry = 'longlnofficial869/aaaa'
         registryCredential = 'dockerhub'      
     }
 
